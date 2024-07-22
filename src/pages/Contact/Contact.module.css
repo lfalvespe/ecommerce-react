@@ -1,0 +1,26 @@
+.contact h2{
+    margin-top: 50px;
+}
+
+.contact h4 {
+    margin-top: 20px;
+}
+
+.contact ul {
+    background-color: rgb(236, 233, 229);
+    padding: 20px;
+    border-radius: 7px;
+    width: fit-content;
+    margin: 30px auto;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact li {
+    text-align: left;
+}
+
+.contact li .icon {
+    vertical-align:sub;
+}

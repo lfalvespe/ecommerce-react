@@ -1,0 +1,40 @@
+.product {
+    text-align: center;
+}
+
+.prodContainer {
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    padding: 0 10px;
+    background-color: rgb(199, 194, 194);
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.line {
+    line-height: 5px;
+}
+
+.prodId, .prodName, .prodPrice, .prodDescription {
+    font-weight: bold;
+}
+.prod_img {
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #6b6b6b;
+}
+
+.backBtn {
+    margin-top: 30px;
+}
+
+.cart {
+    margin: 5px auto;
+    font-size: 20px;
+    color: rgb(59, 59, 58);
+}
+

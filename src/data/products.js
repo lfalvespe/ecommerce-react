@@ -1,0 +1,51 @@
+export const products = [
+    {
+        id: '1',
+        category: 'hardware',
+        name: 'moterboard ASUS 520M-E',
+        description: 'placa mãe AMD AM4, mATX, DDR4',
+        price: '470,00',
+        img: 'asus-520m-e.png',
+    },
+    {
+        id: '2',
+        category: 'periferal',
+        name: 'mouse logitech MX',
+        description: 'wireless vertical mouse Logitech MX',
+        price: '560,00',
+        img: 'mouse-mx.png',
+    },
+    {
+        id: '3',
+        category: 'energy',
+        name: 'fonte Aerocool KCAS 700W',
+        description: 'Fonte Aerocool KCAS 700W, 80 Plus Bronze, PFC Ativo',
+        price: '302,00',
+        img: 'aerocool-700.png',
+    },
+    {
+        id: '4',
+        category: 'accessories',
+        name: 'hub usb 7 ports',
+        description: 'HUB 7 Em 1, USB 3.0, Pure Power, PP-HUB-004',
+        price: '65,00',
+        img: 'hub-usb.png',
+    },
+    {
+        id: '5',
+        category: 'periferal',
+        name: 'teclado mecânico Redragon',
+        description: 'Teclado mecânico Redragon rgb swicth red pt-br',
+        price: '365,00',
+        img: 'teclado-mec.png',
+    },
+    {
+        id: '6',
+        category: 'hardware',
+        name: 'processador ryzen 5 5600G',
+        description: 'AMD ryzen 5 5600G processor',
+        price: '1200,00',
+        img: 'ryzen5600g.png',
+    },
+
+]
